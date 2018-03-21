@@ -17,3 +17,45 @@
     .main-nav li {
         padding: 5px 0px 5px 0px;
     }
+    .main-nav a {
+        color: white;
+    }
+    .co-info {
+        font-size: 23px;
+        font-weight: bold;
+    }
+    .foot {
+        background-color: dimgray;
+        color: white;
+        font-family: Helvetica;
+        text-align: left;
+    }
+    .foot a {
+        color: white;
+        padding-left: 4px;
+    }
+    .copr {
+        font-size: 11px;
+    }
+    .inline {
+        display: inline-block;
+    }
+    .inline-n {
+        display: inline;
+    }
+    .sect-two p {
+        font-family: Helvetica;
+        font-size: 14px;
+    }
+    .sect-two h2 {
+        font-size: 32px;
+    }
+    .sect-two h3 {
+        font-size: 23px;
+    }
+    .sect-three h3 {
+        font-size: 23px;
+    }
+    .sect-three p {
+        font-size: 14px;
+    }
